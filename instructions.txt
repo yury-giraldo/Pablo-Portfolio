@@ -1,0 +1,33 @@
+Install wordpress:
+
+https://wordpress.org/download/
+
+Install GIT:
+
+…or create a new repository on the command line
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yury-giraldo/#.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/yury-giraldo/press-w.git
+git branch -M main
+git push -u origin main
+
+Install Yarn:
+
+Once you have npm installed you can run the following both to install and upgrade Yarn:
+npm install --global yarn
+
+Install Tailwind CSS:
+
+https://tailwindcss.com/docs/installation
+
+How to install daisyUI as a Tailwind CSS:
+
+https://daisyui.com/docs/install/
+
